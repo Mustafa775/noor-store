@@ -2103,15 +2103,15 @@ input[type=radio].sr-only:checked ~ div.pie-wrapper {
   .is-sticky-product-bar.product-single{padding-bottom:4rem}
   .is-sticky-product-bar .sticky-product-bar{position:fixed;bottom:0px;left:0px;z-index:2;display:flex;width:100%;--tw-translate-y:28rem;transform:translate(var(--tw-translate-x), 28rem) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));align-items:center;justify-content:space-between;padding:0.75rem;opacity:0;--tw-shadow:-1px -2px 9px 0 rgba(0,0,0,0.05);--tw-shadow-colored:-1px -2px 9px 0 var(--tw-shadow-color);box-shadow:0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), -1px -2px 9px 0 rgba(0,0,0,0.05);box-shadow:var(--tw-ring-offset-shadow, 0 0 rgba(0,0,0,0)), var(--tw-ring-shadow, 0 0 rgba(0,0,0,0)), var(--tw-shadow);transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-delay:500ms;transition-duration:700ms;transition-timing-function:cubic-bezier(0.55, 0, 0.1, 1)}
   .is-sticky-product-bar .sticky-product-bar__quantity,
-  .is-sticky-product-bar .sticky-product-bar salla-add-product-button{--tw-translate-y:1.25rem;transform:translate(var(--tw-translate-x), 1.25rem) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));opacity:0;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:700ms;transition-timing-function:cubic-bezier(0.55, 0, 0.1, 1)}
+  .is-sticky-product-bar .sticky-product-bar #sallaAddProductButton{--tw-translate-y:1.25rem;transform:translate(var(--tw-translate-x), 1.25rem) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));opacity:0;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:700ms;transition-timing-function:cubic-bezier(0.55, 0, 0.1, 1)}
   .is-sticky-product-bar .sticky-product-bar__price,
   .is-sticky-product-bar .sticky-product-bar .form-label{display:none}
   .is-sticky-product-bar .sticky-product-bar__quantity{margin:0px;transition-delay:900ms}
-  .is-sticky-product-bar .sticky-product-bar salla-add-product-button{margin:0px;width:auto;flex:1 1 0%;transition-delay:1000ms}
-  [dir="ltr"] .is-sticky-product-bar .sticky-product-bar salla-add-product-button{margin-left:1.25rem}
-  [dir="rtl"] .is-sticky-product-bar .sticky-product-bar salla-add-product-button{margin-right:1.25rem}
+  .is-sticky-product-bar .sticky-product-bar #sallaAddProductButton{margin:0px;width:auto;flex:1 1 0%;transition-delay:1000ms}
+  [dir="ltr"] .is-sticky-product-bar .sticky-product-bar #sallaAddProductButton{margin-left:1.25rem}
+  [dir="rtl"] .is-sticky-product-bar .sticky-product-bar #sallaAddProductButton{margin-right:1.25rem}
   .hydrated .is-sticky-product-bar .sticky-product-bar, .hydrated .is-sticky-product-bar .sticky-product-bar__quantity,
-  .hydrated .is-sticky-product-bar .sticky-product-bar salla-add-product-button{--tw-translate-y:0px;transform:translate(var(--tw-translate-x), 0px) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));opacity:1}
+  .hydrated .is-sticky-product-bar .sticky-product-bar #sallaAddProductButton{--tw-translate-y:0px;transform:translate(var(--tw-translate-x), 0px) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));opacity:1}
 }
 .s-tabs-header * {
   pointer-events: auto !important;
@@ -9246,3 +9246,19 @@ box-shadow: 0px 3px 10px -2px rgba(0, 0, 0, 0.38);
   color: #ffffff !important;
   background-color: #212121 !important;
 }
+
+.tab button{
+  background-color: #fff;
+}
+.tab button:hover{
+  font-weight: 700;
+}
+.tab button.active{
+  border-bottom: 3px solid #414042;
+  font-weight: 700;
+}
+
+#featured-products-2{
+  display: none;
+}
+    
