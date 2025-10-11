@@ -9292,3 +9292,23 @@ cubic-bezier(0.4, 0, 0.2, 1);
   text-transform: none;
   cursor: pointer;
 }
+.buyNow-btn{
+  flex-direction: row-reverse;
+  background-color: transparent;
+    border: 1px solid #212121;
+    color: #212121;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5 rem;
+    width: 100%;
+    border-radius: .75 rem !important;
+    font-size: 0.875rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    font-family: PingARLT;
+    gap: 5px;
+    direction: ltr;
+}
