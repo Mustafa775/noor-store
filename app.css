@@ -9312,3 +9312,20 @@ cubic-bezier(0.4, 0, 0.2, 1);
     gap: 5px;
     direction: ltr;
 }
+#search-aside-panel {
+background-color: #ffffff;
+position: fixed; /* Or absolute, depending on your layout */
+top: 0;
+left: 0;
+width: 100%;
+z-index: 999; /* Ensure it appears on top of other content */
+transform: translateY(-100%);
+transition: transform 0.3s ease-in-out;
+visibility: hidden; /* Hide it from screen readers when not visible */
+}
+
+/* This class will be toggled by JavaScript to show the panel */
+#search-aside-panel.is-open {
+transform: translateY(0);
+visibility: visible;
+}
