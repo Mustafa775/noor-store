@@ -9193,6 +9193,7 @@ salla-slider[type]:not(.hydrated) > div, salla-slider[type]:not(.hydrated) .swip
 
 
 .owl-nav{
+  padding-top: 20px !important;
   display: flex !important;
   flex-direction: row !important;
   justify-content: center !important;
@@ -9313,7 +9314,6 @@ cubic-bezier(0.4, 0, 0.2, 1);
     direction: ltr;
 }
 #search-aside-panel {
-background-color: #ffffff;
 position: fixed; /* Or absolute, depending on your layout */
 top: 0;
 left: 0;
